@@ -4,7 +4,7 @@
 
 * Wenshuai Ye \<wenshuaiye@g.harvard.edu\>
 * Yaxiong Cai \<yaxiongcai@g.harvard.edu\>
-* Zhenyang Pan 
+* Zhenyang Pan \<zhenyangpan@g.harvard.edu\>
 * Yuhao Zhu \<yuhaozhu@g.harvard.edu\>
 * Ye Kuang \<yekuang@g.harvard.edu\>
 
