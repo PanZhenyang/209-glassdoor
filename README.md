@@ -8,7 +8,7 @@
 * Yuhao Zhu \<yuhaozhu@g.harvard.edu\>
 * Ye Kuang \<yekuang@g.harvard.edu\>
 
-![](Facebook.jpg)
+![](logo.png)
 
 As graduate students at Harvard University interested in launching start-ups in the future, we would like to know how people view their employers from different aspects and what are people's views of different features of a company (benefit, culture, balance, management, opportunity, size, etc) influence their view on the company as a whole. We perform the analysis on various levels, including stratifying the analysis by industries and states.
 
@@ -23,3 +23,8 @@ Our project consists both IPython Notebook Sourcecode and Data Assest.
 Our project is done using Anaconda IPython Notebook. To get started, you may want to install it first.
 
 Most of the modules we are using have already been included in IPython Notebook. However, in order to display the statistics distriution over USA, you will need to install `vincent` module first.
+
+## Introduction
+
+Watch the video here for an overall introduction on YouTube.
+[![](http://img.youtube.com/vi/gIk6sylQHfc/0.jpg)](http://www.youtube.com/watch?v=gIk6sylQHfc)
